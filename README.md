@@ -1,4 +1,4 @@
-# Label Noise
+# Classification in the presence of label noise
 
 This repository contains some simulations of the label noise in the case of supervised classification. 
 We use two datasets : Iris and Titanic. 
